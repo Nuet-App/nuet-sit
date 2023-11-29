@@ -1,0 +1,14 @@
+{
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "SignInPage": {
+    "already_have_an_account": "Already have an account? ",
+    "create_an_account" : "Create an account",
+    "create_account" : "Create account",
+    "email": "@:email",
+    "password": "@:password",
+    "confirm_password": "@:confirm_password",
+    "sign_in_here" : "Sign In here"
+  }
+}
