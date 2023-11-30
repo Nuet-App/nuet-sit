@@ -2,7 +2,18 @@
   "email": "Email",
   "password": "Password",
   "confirm_password": "Confirm Password",
-  "SignInPage": {
+  "invalid_email": "Invalid Email",
+  "invalid_password": "Invalid Password",
+  "too_short_password": "Password is too short",
+  "confirm_password_not_match": "Confirm password does not match",
+  "required_field": "Required",
+  "firebase_auth_exception" : {
+    "email-already-in-use": "Email is already exists, please sign in",
+    "invalid-email": "Invalid email",
+    "operation-not-allowed": "Account is unavailable",
+    "weak-password": "Password is too weak"
+  },
+  "CreateAccountPage": {
     "already_have_an_account": "Already have an account? ",
     "create_an_account" : "Create an account",
     "create_account" : "Create account",
