@@ -8,10 +8,15 @@
   "confirm_password_not_match": "Confirm password does not match",
   "required_field": "Required",
   "firebase_auth_exception" : {
-    "email-already-in-use": "Email is already exists, please sign in",
-    "invalid-email": "Invalid email",
+    "email-already-in-use": "Email is already exists",
+    "invalid-email": "Email is invalid",
     "operation-not-allowed": "Account is unavailable",
-    "weak-password": "Password is too weak"
+    "weak-password": "Password is too weak",
+    "user-disabled": "Account is disabled",
+    "user-not-found": "Account is not found",
+    "wrong-password": "Password is incorrect",
+    "too-many-requests": "Too many requests, please try again later",
+    "invalid-login-credentials": "Invalid login credentials"
   },
   "CreateAccountPage": {
     "already_have_an_account": "Already have an account? ",
@@ -21,5 +26,12 @@
     "password": "@:password",
     "confirm_password": "@:confirm_password",
     "sign_in_here" : "Sign In here"
+  },
+  "LoginPage": {
+    "do_not_have_an_account": "Do not have an account? ",
+    "create_here": "Create here",
+    "email": "@:email",
+    "password": "@:password",
+    "login": "Login"
   }
 }
