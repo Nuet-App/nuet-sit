@@ -7,16 +7,20 @@
   "too_short_password": "Password is too short",
   "confirm_password_not_match": "Confirm password does not match",
   "required_field": "Required",
-  "firebase_auth_exception" : {
-    "email-already-in-use": "Email is already exists",
-    "invalid-email": "Email is invalid",
-    "operation-not-allowed": "Account is unavailable",
-    "weak-password": "Password is too weak",
-    "user-disabled": "Account is disabled",
-    "user-not-found": "Account is not found",
-    "wrong-password": "Password is incorrect",
-    "too-many-requests": "Too many requests, please try again later",
-    "invalid-login-credentials": "Invalid login credentials"
+  "create_account_with_email_and_password_failure" : {
+    "email-already-in-use": "An account already exists for that email.",
+    "invalid-email": "Email is not valid or badly formatted.",
+    "operation-not-allowed": "Operation is not allowed.  Please contact support.",
+    "weak-password": "Please enter a stronger password.",
+    "user-disabled": "This user has been disabled. Please contact support for help.",
+    "unknown_exception_occurred": "An unknown exception occurred. Please contact support for help."
+  },
+  "login_with_email_and_password" : {
+    "invalid-email": "Email is not valid or badly formatted.",
+    "user-disabled": "This user has been disabled. Please contact support for help.",
+    "user-not-found": "Email is not found, please create an account.",
+    "wrong-password": "Incorrect password, please try again.",
+    "unknown_exception_occurred": "An unknown exception occurred. Please contact support for help."
   },
   "CreateAccountPage": {
     "already_have_an_account": "Already have an account? ",
@@ -25,13 +29,21 @@
     "email": "@:email",
     "password": "@:password",
     "confirm_password": "@:confirm_password",
-    "sign_in_here" : "Sign In here"
+    "login_here" : "Login here"
   },
   "LoginPage": {
     "do_not_have_an_account": "Do not have an account? ",
-    "create_here": "Create here",
+    "create_account": "Create Account",
     "email": "@:email",
     "password": "@:password",
-    "login": "Login"
+    "login": "Login",
+    "forgot_password": "Forgot Password? ",
+    "reset_it_now" : "Reset it now"
+  },
+  "ForgotPasswordPage": {
+    "forgot_password": "Forgot Password",
+    "your_email_address": "Your email address..",
+    "enter_your_email_below": "Enter your email below in order be sent a reset password link.",
+    "send_reset_link": "Send Reset Link"
   }
 }
