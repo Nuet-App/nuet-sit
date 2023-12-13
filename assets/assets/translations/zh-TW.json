@@ -1,15 +1,15 @@
 {
-  "email": "Email",
-  "password": "Password",
-  "confirm_password": "Confirm Password",
-  "invalid_email": "Invalid Email",
-  "invalid_password": "Invalid Password",
-  "too_short_password": "Password is too short",
-  "confirm_password_not_match": "Confirm password does not match",
-  "required_field": "Required",
+  "email": "電子郵件",
+  "password": "密碼",
+  "confirm_password": "確認密碼",
+  "invalid_email": "電子郵件地址無效",
+  "invalid_password": "密碼無效",
+  "too_short_password": "密碼太短",
+  "confirm_password_not_match": "密碼與確認密碼不相符",
+  "required_field": "必填",
   "create_account_with_email_and_password_failure" : {
-    "email-already-in-use": "An account already exists for that email.",
-    "invalid-email": "Email is not valid or badly formatted.",
+    "email-already-in-use": "此電子郵件地址已被註冊",
+    "invalid-email": "電子郵件地址無效",
     "operation-not-allowed": "Operation is not allowed.  Please contact support.",
     "weak-password": "Please enter a stronger password.",
     "user-disabled": "This user has been disabled. Please contact support for help.",
@@ -45,18 +45,5 @@
     "your_email_address": "Your email address..",
     "enter_your_email_below": "Enter your email below in order be sent a reset password link.",
     "send_reset_link": "Send Reset Link"
-  },
-  "SetUpPage": {
-    "set_up": "Set Up",
-    "name_caption": "How would you like to be called?",
-    "your_name": "Your name",
-    "weight_caption": "We will calculate your recommended daily protein intake based on your weight.",
-    "your_weight": "Your weight ({})",
-    "continue": "Continue",
-    "hello": "Hello {}",
-    "recommended_daily_intake": "Your recommended daily intake is",
-    "units_of_fruit_and_veg": "{} units of fruit & vegetable",
-    "units_of_protein": "{} units of protein",
-    "start": "Start"
   }
 }
