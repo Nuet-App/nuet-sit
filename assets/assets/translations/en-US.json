@@ -8,18 +8,17 @@
   "confirm_password_not_match": "Confirm password does not match",
   "required_field": "Required",
   "create_account_with_email_and_password_failure" : {
-    "email-already-in-use": "An account already exists for that email.",
-    "invalid-email": "Email is not valid or badly formatted.",
-    "operation-not-allowed": "Operation is not allowed.  Please contact support.",
-    "weak-password": "Please enter a stronger password.",
-    "user-disabled": "This user has been disabled. Please contact support for help.",
+    "email_already_in_use": "An account already exists for that email.",
+    "invalid_email": "Email is not valid or badly formatted.",
+    "weak_password": "Please enter a stronger password.",
+    "user_disabled": "This user has been disabled. Please contact support for help.",
     "unknown_exception_occurred": "An unknown exception occurred. Please contact support for help."
   },
   "login_with_email_and_password" : {
-    "invalid-email": "Email is not valid or badly formatted.",
-    "user-disabled": "This user has been disabled. Please contact support for help.",
-    "user-not-found": "Email is not found, please create an account.",
-    "wrong-password": "Incorrect password, please try again.",
+    "invalid_email": "Email is not valid or badly formatted.",
+    "user_disabled": "This user has been disabled. Please contact support for help.",
+    "user_not_found": "Email is not found, please create an account.",
+    "wrong_password": "Incorrect password, please try again.",
     "unknown_exception_occurred": "An unknown exception occurred. Please contact support for help."
   },
   "CreateAccountPage": {
