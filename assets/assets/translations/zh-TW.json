@@ -17,45 +17,45 @@
   "login_with_email_and_password" : {
     "invalid_email": "電子郵件地址無效或格式錯誤",
     "user_disabled": "此帳號已停用，請洽詢支援服務",
-    "user_not_found": "無此點子郵件紀錄，請建立帳戶",
+    "user_not_found": "無此電子郵件紀錄，請建立帳戶",
     "wrong_password": "密碼錯誤，請再試一次",
     "unknown_exception_occurred": "應用程式發生例外狀況，請洽詢支援服務"
   },
   "CreateAccountPage": {
-    "already_have_an_account": "Already have an account? ",
-    "create_an_account" : "Create an account",
-    "create_account" : "Create account",
+    "already_have_an_account": "已經擁有帳戶？",
+    "create_an_account" : "建立帳戶",
+    "create_account" : "建立帳戶",
     "email": "@:email",
     "password": "@:password",
     "confirm_password": "@:confirm_password",
-    "login_here" : "Login here"
+    "login_here" : "登入"
   },
   "LoginPage": {
-    "do_not_have_an_account": "Do not have an account? ",
-    "create_account": "Create Account",
+    "do_not_have_an_account": "沒有帳戶？",
+    "create_account": "建立帳戶",
     "email": "@:email",
     "password": "@:password",
-    "login": "Login",
-    "forgot_password": "Forgot Password? ",
-    "reset_it_now" : "Reset it now"
+    "login": "登入",
+    "forgot_password": "忘記密碼？",
+    "reset_it_now" : "重設密碼"
   },
   "ForgotPasswordPage": {
-    "forgot_password": "Forgot Password",
-    "your_email_address": "Your email address..",
-    "enter_your_email_below": "Enter your email below in order be sent a reset password link.",
-    "send_reset_link": "Send Reset Link"
+    "forgot_password": "忘記密碼",
+    "your_email_address": "電子郵件",
+    "enter_your_email_below": "輸入您的電子郵件，以傳送密碼重設連結至您的電子郵件信箱",
+    "send_reset_link": "傳送密碼重設連結"
   },
   "SetUpPage": {
-    "set_up": "Set Up",
-    "name_caption": "How would you like to be called?",
-    "your_name": "Your name",
-    "weight_caption": "We will calculate your recommended daily protein intake based on your weight.",
-    "your_weight": "Your weight ({})",
-    "continue": "Continue",
-    "hello": "Hello {}",
-    "recommended_daily_intake": "Your recommended daily intake is",
-    "units_of_fruit_and_veg": "{} units of fruit & vegetable",
-    "units_of_protein": "{} units of protein",
-    "start": "Start"
+    "set_up": "設定",
+    "name_caption": "你的名字或暱稱？",
+    "your_name": "名字",
+    "weight_caption": "我們會依據你的體重計算你的每日蛋白質建議攝取量",
+    "your_weight": "體重 ({})",
+    "continue": "繼續",
+    "hello": "哈囉 {}",
+    "recommended_daily_intake": "你的每日建議攝取量是",
+    "units_of_fruit_and_veg": "{} 份蔬果",
+    "units_of_protein": "{} 份蛋白質",
+    "start": "開始"
   }
 }
