@@ -57,5 +57,9 @@
     "units_of_fruit_and_veg": "{} units of fruit & vegetable",
     "units_of_protein": "{} units of protein",
     "start": "Start"
+  },
+  "PunchPage": {
+    "fruit_and_veg": "Fruit & Veg",
+    "protein": "Protein"
   }
 }
