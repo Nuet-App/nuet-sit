@@ -7,6 +7,8 @@
   "too_short_password": "密碼太短",
   "confirm_password_not_match": "密碼與確認密碼不相符",
   "required_field": "必填",
+  "fruit_and_veg" : "蔬果",
+  "protein": "蛋白質",  
   "create_account_with_email_and_password_failure" : {
     "email_already_in_use": "此電子郵件地址已被註冊",
     "invalid_email": "電子郵件地址無效",
@@ -57,5 +59,19 @@
     "units_of_fruit_and_veg": "{} 份蔬果",
     "units_of_protein": "{} 份蛋白質",
     "start": "開始"
+  },
+  "PunchPage": {
+    "fruit_and_veg": "@:fruit_and_veg",
+    "protein": "@:protein"
+  },
+  "InfoIntroPage": {
+    "how_much_is_1_unit": "一份是多少？",
+    "fruit_and_veg": "@:fruit_and_veg",
+    "fruit_and_veg_info": "一份蔬果是80克\n大約是一個拳頭的大小\n或是一顆網球的大小",
+    "protein": "@:protein",
+    "protein_info": "一份蛋白質是7克\n大約是1/3掌心大小的肉類\n或是1/3副撲克牌大小的肉類",
+    "example": "範例",
+    "what_are_the_health_benefits" : "有哪些健康效益？",
+    "benefits_info": "蔬果有助於心臟、腸胃和腦部健康\n蛋白質有助於增強免疫系統、骨骼、頭髮與皮膚健康、肌肉組成與修復、提供能量、降低疲勞感"
   }
 }

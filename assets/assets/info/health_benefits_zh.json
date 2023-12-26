@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Boost energy",
+    "subtitle": "prevent fatigue, iron, omega-3 fatty acids, potassium, fiber, vitamins (especially vitamins B6 and B12)",
+    "content": "banana, bell pepper, yogurt, beans, avocado, sweet potato, egg, chicken, fish"
+  },
+  {
+    "title": "Eye health",
+    "subtitle": "resveratrol, lutein, zeaxanthin, astaxanthin, vitamin A, vitamin C, omega-3, zinc",
+    "content": "grape, bell pepper, broccoli, fish, salmon, eggs, almonds, milk, yogurt, carrots, orange, corn, spinach"
+  },
+  {
+    "title": "Heart health",
+    "subtitle": "lower blood pressure, sodium, potassium, magnesium, Omega-3, isoflavones,  B12, riboflavin",
+    "content": "blueberries, red grapes, apples, avocados, mangos, blackberries, cherries, kiwi, fish, milk, soy milk, yogurt"
+  },
+  {
+    "title": "Exercise and muscle recovery",
+    "subtitle": "potassium, magnesium, omega-3, vitamin A, selenium, zinc",
+    "content": "cherries, banana, fish, pomegranate, egg, yogurt, cheese"
+  },
+  {
+    "title": "Weight loss friendly",
+    "subtitle": "polyphenols, fiber, high protein, potassium",
+    "content": "apple, pumpkin, yogurt, green peas, chicken, spinach, broccoli"
+  },
+  {
+    "title": "Skin health",
+    "subtitle": "vitamin C, astaxanthin, omega-3, vitamin E, zinc, vitamin A, isoflavones",
+    "content": "cherrie, strawberries, tomato, salmon, fish, avocado, bell pepper, broccoli, soy product"
+  },
+  {
+    "title": "Improve immune system",
+    "subtitle": "vitamin C, E, A, D, B6, zinc",
+    "content": "grapefruit, oranges, lemons, red bell peppers, broccoli, spinach, yogurt, papaya, chicken, shellfish"
+  },
+  {
+    "title": "Bone health",
+    "subtitle": "vitamin K, C, D, magnesium, phosphorus, calcium",
+    "content": "dark leafy greens, salmon, tuna, cheese, yogurt, egg, broccoli, milk"
+  },
+  {
+    "title": "Brain health",
+    "subtitle": "improve memory, omega-3, antioxidants, vitamin K, zinc, magnesium, vitamin C, choline",
+    "content": "fish, blueberries, broccoli, pumpkin seeds, bell peppers, guava, kiwi, tomatoes, orange, egg"
+  },
+  {
+    "title": "Digestive health",
+    "subtitle": "probiotics, probiotics, papain, magnesium, insoluble fiber, omega-3",
+    "content": "yogurt, apple, papaya, miso, kimchi, spinach, broccoli and dark leafy greens, salmon"
+  }
+]

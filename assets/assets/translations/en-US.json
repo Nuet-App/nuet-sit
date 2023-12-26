@@ -7,6 +7,8 @@
   "too_short_password": "Password is too short",
   "confirm_password_not_match": "Confirm password does not match",
   "required_field": "Required",
+  "fruit_and_veg" : "Fruit & Veg",
+  "protein": "Protein",
   "create_account_with_email_and_password_failure" : {
     "email_already_in_use": "An account already exists for that email.",
     "invalid_email": "Email is not valid or badly formatted.",
@@ -59,7 +61,17 @@
     "start": "Start"
   },
   "PunchPage": {
-    "fruit_and_veg": "Fruit & Veg",
-    "protein": "Protein"
+    "fruit_and_veg": "@:fruit_and_veg",
+    "protein": "@:protein"
+  },
+  "InfoIntroPage": {
+    "how_much_is_1_unit": "How much is 1 unit?",
+    "fruit_and_veg": "@:fruit_and_veg",
+    "fruit_and_veg_info": "1 unit is 80g of fruit & veg\n≈ the size of a fist \nor a tennis ball",
+    "protein": "@:protein",
+    "protein_info": "1 unit is 7g of protein\n≈ 1/3 palm-size meat\nor 1/3 deck of cards-size meat",
+    "example": "Example",
+    "what_are_the_health_benefits" : "What are the health benefits?",
+    "benefits_info": "Fruit and veg support heart, gut and brain health.\nProtein provides energy and strengthen the immune system, muscle mass, bone, hair and skin health."
   }
 }

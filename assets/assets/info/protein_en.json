@@ -1,0 +1,52 @@
+[
+  {
+    "title": "chicken",
+    "subtitle": "1 piece (palm size) = 3-4 units",
+    "content": "boost energy, brain health, weight loss friendly, better mood"
+  },
+  {
+    "title": "beef",
+    "subtitle": "1 piece (palm size) = 3-4 units",
+    "content": "brain health, improve immune system, blood formation, boost energy"
+  },
+  {
+    "title": "pork",
+    "subtitle": "1 piece (palm size) = 3 units",
+    "content": "brain health, improve immune system, blood formation, boost energy"
+  },
+  {
+    "title": "fish (general)",
+    "subtitle": "1 piece (palm size) = 3 units",
+    "content": "boost mood, heart health, brain health, better sleep, eye health"
+  },
+  {
+    "title": "egg",
+    "subtitle": "1",
+    "content": "eye health, weight loss friendly, brain health"
+  },
+  {
+    "title": "tofu",
+    "subtitle": "1/2 carton (1 carton=300g)",
+    "content": "brain health, may decrease the risk of certain cancer, diabetes and heart disease"
+  },
+  {
+    "title": "milk",
+    "subtitle": "1 glass (1 glass=200g)",
+    "content": "bone health, muscle repair, may decrease the risk of diabetes and heart disease"
+  },
+  {
+    "title": "soy milk",
+    "subtitle": "1 glass (1 glass=200g)",
+    "content": "heart health, prevent anemia, boost energy, brain health, lower blood pressure"
+  },
+  {
+    "title": "yogurt",
+    "subtitle": "1 glass (1 glass=200g)",
+    "content": "bone health, heart health, lower blood pressure, weight loss friendly"
+  },
+  {
+    "title": "green peas",
+    "subtitle": "5 heaped tablespoons",
+    "content": "bone health, lower blood sugar, heart health, digestive health, may decrease the risk of certain cancer"
+  }
+]

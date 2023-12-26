@@ -1,0 +1,52 @@
+[
+  {
+    "title": "蘋果",
+    "subtitle": "1",
+    "content": "heart health, lower blood pressure, weight loss friendly"
+  },
+  {
+    "title": "banana",
+    "subtitle": "1",
+    "content": "moderate blood sugar, weight loss friendly, exercise recovery, lower blood pressure"
+  },
+  {
+    "title": "roma tomato",
+    "subtitle": "1 large",
+    "content": "heart health, skin health"
+  },
+  {
+    "title": "bell pepper",
+    "subtitle": "1/2 large",
+    "content": "eye health, prevent anemia, boost energy"
+  },
+  {
+    "title": "broccoli",
+    "subtitle": "5-8 florets",
+    "content": "eye health, reduce inflammation, may decrease the risk of chronic disease and certain cancer"
+  },
+  {
+    "title": "carrot",
+    "subtitle": "3 heaped tablespoons",
+    "content": "bone health, eye health, lower blood pressure, may decrease the risk of certain cancer and heart disease"
+  },
+  {
+    "title": "peas",
+    "subtitle": "3 heaped tablespoons",
+    "content": "bone health, lower blood sugar, heart health, digestive health, may decrease the risk of certain cancer"
+  },
+  {
+    "title": "button mushrooms",
+    "subtitle": "14",
+    "content": "lower blood sugar level, gut health, may decrease the risk of certain cancer and heart disease"
+  },
+  {
+    "title": "corn",
+    "subtitle": "3 heaped tablespoons",
+    "content": "eye health, reduce inflammation, digestive health"
+  },
+  {
+    "title": "spinach",
+    "subtitle": "raw - 2 handfuls cooked - 2 heaped tablespoons",
+    "content": "eye health, heart health, reduce inflammation, lower blood pressure, may decrease the risk of chronic disease and certain cancer"
+  }
+]
