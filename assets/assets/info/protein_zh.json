@@ -1,52 +1,52 @@
 [
   {
-    "title": "chicken",
-    "subtitle": "1 piece (palm size) = 3-4 units",
-    "content": "boost energy, brain health, weight loss friendly, better mood"
+    "title": "雞肉",
+    "subtitle": "1掌心大=3-4份",
+    "content": "提高精神體力、消除疲勞、腦部健康、減重友善、調節情緒"
   },
   {
-    "title": "beef",
-    "subtitle": "1 piece (palm size) = 3-4 units",
-    "content": "brain health, improve immune system, blood formation, boost energy"
+    "title": "牛肉",
+    "subtitle": "1掌心大=3-4份",
+    "content": "腦部健康、提升免疫力、補血、提高精神體力、消除疲勞"
   },
   {
-    "title": "pork",
-    "subtitle": "1 piece (palm size) = 3 units",
-    "content": "brain health, improve immune system, blood formation, boost energy"
+    "title": "豬肉",
+    "subtitle": "1掌心大=3份",
+    "content": "腦部健康、提升免疫力、補血、提高精神體力、消除疲勞"
   },
   {
-    "title": "fish (general)",
-    "subtitle": "1 piece (palm size) = 3 units",
-    "content": "boost mood, heart health, brain health, better sleep, eye health"
+    "title": "魚肉",
+    "subtitle": "1掌心大=3份",
+    "content": "調節情緒、心血管健康、腦部健康、眼睛保健、幫助睡眠"
   },
   {
-    "title": "egg",
+    "title": "蛋",
     "subtitle": "1",
-    "content": "eye health, weight loss friendly, brain health"
+    "content": "眼睛保健、減重友善、腦部健康"
   },
   {
-    "title": "tofu",
-    "subtitle": "1/2 carton (1 carton=300g)",
-    "content": "brain health, may decrease the risk of certain cancer, diabetes and heart disease"
+    "title": "豆腐",
+    "subtitle": "1/2盒(1盒300克)",
+    "content": "腦部健康、可降低罹患心血管疾病、糖尿病與特定癌症風險"
   },
   {
-    "title": "milk",
-    "subtitle": "1 glass (1 glass=200g)",
-    "content": "bone health, muscle repair, may decrease the risk of diabetes and heart disease"
+    "title": "牛奶",
+    "subtitle": "1杯(200ml)",
+    "content": "骨骼健康、運動與肌肉修復、可降低罹患心血管疾病與糖尿病風險"
   },
   {
-    "title": "soy milk",
-    "subtitle": "1 glass (1 glass=200g)",
-    "content": "heart health, prevent anemia, boost energy, brain health, lower blood pressure"
+    "title": "豆漿",
+    "subtitle": "1杯(200ml)",
+    "content": "心臟健康、預防貧血、提高精神體力、消除疲勞、腦部健康、降低血壓"
   },
   {
-    "title": "yogurt",
-    "subtitle": "1 glass (1 glass=200g)",
-    "content": "bone health, heart health, lower blood pressure, weight loss friendly"
+    "title": "優格、優酪乳",
+    "subtitle": "1杯(200ml)",
+    "content": "骨骼健康、心臟健康、降低血壓、減重友善"
   },
   {
-    "title": "green peas",
-    "subtitle": "5 heaped tablespoons",
-    "content": "bone health, lower blood sugar, heart health, digestive health, may decrease the risk of certain cancer"
+    "title": "青豆",
+    "subtitle": "滿滿5湯匙",
+    "content": "骨骼健康、降低血壓、心臟健康、促進消化與腸道健康、可降低罹患特定癌症風險"
   }
 ]

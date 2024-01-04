@@ -2,51 +2,51 @@
   {
     "title": "蘋果",
     "subtitle": "1",
-    "content": "heart health, lower blood pressure, weight loss friendly"
+    "content": "心血管健康、降低血壓、減重友善"
   },
   {
-    "title": "banana",
+    "title": "香蕉",
     "subtitle": "1",
-    "content": "moderate blood sugar, weight loss friendly, exercise recovery, lower blood pressure"
+    "content": "調節血糖、降低血壓、減重友善、運動後肌肉修復"
   },
   {
-    "title": "roma tomato",
-    "subtitle": "1 large",
-    "content": "heart health, skin health"
+    "title": "大番茄",
+    "subtitle": "1",
+    "content": "心血管健康、改善膚質"
   },
   {
-    "title": "bell pepper",
-    "subtitle": "1/2 large",
-    "content": "eye health, prevent anemia, boost energy"
+    "title": "甜椒",
+    "subtitle": "1/2",
+    "content": "眼睛保健、預防貧血、提高精神體力、消除疲勞"
   },
   {
-    "title": "broccoli",
-    "subtitle": "5-8 florets",
-    "content": "eye health, reduce inflammation, may decrease the risk of chronic disease and certain cancer"
+    "title": "青花菜",
+    "subtitle": "5-8朵",
+    "content": "眼睛保健、抗發炎、可降低罹患慢性病與特定癌症風險"
   },
   {
-    "title": "carrot",
-    "subtitle": "3 heaped tablespoons",
-    "content": "bone health, eye health, lower blood pressure, may decrease the risk of certain cancer and heart disease"
+    "title": "胡蘿蔔",
+    "subtitle": "滿滿3湯匙",
+    "content": "骨骼健康、眼睛保健、降低血壓、可降低罹患心血管疾病與特定癌症風險"
   },
   {
-    "title": "peas",
-    "subtitle": "3 heaped tablespoons",
-    "content": "bone health, lower blood sugar, heart health, digestive health, may decrease the risk of certain cancer"
+    "title": "青豆",
+    "subtitle": "滿滿3湯匙",
+    "content": "骨骼健康、降低血壓、心血管健康、促進消化與腸道健康、可降低罹患特定癌症風險"
   },
   {
-    "title": "button mushrooms",
+    "title": "洋菇",
     "subtitle": "14",
-    "content": "lower blood sugar level, gut health, may decrease the risk of certain cancer and heart disease"
+    "content": "降低血糖、腸道健康、可降低罹患心血管疾病與特定癌症風險"
   },
   {
-    "title": "corn",
-    "subtitle": "3 heaped tablespoons",
-    "content": "eye health, reduce inflammation, digestive health"
+    "title": "玉米",
+    "subtitle": "滿滿3湯匙",
+    "content": "眼睛保健、抗發炎、促進消化與腸道健康"
   },
   {
-    "title": "spinach",
-    "subtitle": "raw - 2 handfuls cooked - 2 heaped tablespoons",
-    "content": "eye health, heart health, reduce inflammation, lower blood pressure, may decrease the risk of chronic disease and certain cancer"
+    "title": "菠菜",
+    "subtitle": "生菜1捧、煮熟滿滿2湯匙",
+    "content": "眼睛保健、心血管健康、降低血壓、抗發炎、可降低罹患慢性病與特定癌症風險"
   }
 ]

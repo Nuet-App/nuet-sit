@@ -73,5 +73,15 @@
     "example": "Example",
     "what_are_the_health_benefits" : "What are the health benefits?",
     "benefits_info": "Fruit and veg support heart, gut and brain health.\nProtein provides energy and strengthen the immune system, muscle mass, bone, hair and skin health."
+  },
+  "TrackPage": {
+    "hello": "Hello {}",
+    "weekly_average": "Weekly Average",
+    "units_of_fruit_and_veg": "units of fruit & veg",
+    "units_of_protein": "units of protein",
+    "fruit_and_veg": "@:fruit_and_veg",
+    "protein": "@:protein",
+    "this_week": "This Week",
+    "last_week": "Last Week"
   }
 }
