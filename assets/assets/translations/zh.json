@@ -73,5 +73,15 @@
     "example": "範例",
     "what_are_the_health_benefits" : "有哪些健康效益？",
     "benefits_info": "蔬果有助於心臟、腸胃和腦部健康\n蛋白質有助於增強免疫系統、骨骼、頭髮與皮膚健康、肌肉組成與修復、提供能量、降低疲勞感"
+   },
+  "TrackPage": {
+    "hello": "嗨 {}",
+    "weekly_average": "本週平均值",
+    "units_of_fruit_and_veg": "蔬果份數",
+    "units_of_protein": "蛋白質份數",
+    "fruit_and_veg": "@:fruit_and_veg",
+    "protein": "@:protein",
+    "this_week": "本週",
+    "last_week": "上週"
   }
 }
