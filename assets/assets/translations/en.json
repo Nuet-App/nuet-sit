@@ -1,14 +1,25 @@
 {
   "email": "Email",
   "password": "Password",
+  "password_hint": "at least 8 chars, letters & numbers",
   "confirm_password": "Confirm Password",
+  "confirm_password_hint": "re-enter your password",
   "invalid_email": "Invalid Email",
-  "invalid_password": "Invalid Password",
+  "invalid_password": "At least 8 characters long and include a number",
+  "invalid_weight": "Weight must be greater than 0",
   "too_short_password": "Password is too short",
   "confirm_password_not_match": "Confirm password does not match",
   "required_field": "Required",
   "fruit_and_veg" : "Fruit & Veg",
   "protein": "Protein",
+  "your_name": "Your name",
+  "change_name": "Change name",
+  "change_protein_daily_unit": "Change protein daily unit",
+  "protein_daily_unit": "Protein daily unit",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "en": "English",
+  "zh": "Chinese",
   "create_account_with_email_and_password_failure" : {
     "email_already_in_use": "An account already exists for that email.",
     "invalid_email": "Email is not valid or badly formatted.",
@@ -50,7 +61,7 @@
   "SetUpPage": {
     "set_up": "Set Up",
     "name_caption": "How would you like to be called?",
-    "your_name": "Your name",
+    "your_name": "@:your_name",
     "weight_caption": "We will calculate your recommended daily protein intake based on your weight.",
     "your_weight": "Your weight ({})",
     "continue": "Continue",
@@ -58,7 +69,8 @@
     "recommended_daily_intake": "Your recommended daily intake is",
     "units_of_fruit_and_veg": "{} units of fruit & vegetable",
     "units_of_protein": "{} units of protein",
-    "start": "Start"
+    "start": "Start",
+    "tap_to_learn_more": "Tap this button \nto learn more..."
   },
   "PunchPage": {
     "fruit_and_veg": "@:fruit_and_veg",
@@ -82,6 +94,11 @@
     "fruit_and_veg": "@:fruit_and_veg",
     "protein": "@:protein",
     "this_week": "This Week",
-    "last_week": "Last Week"
+    "last_week": "Last Week",
+    "profile": "Profile",
+    "name": "Name",
+    "protein_daily_unit": "Protein Daily Unit",
+    "language": "Language",
+    "log_out_of_account": "Log out of account"
   }
 }
