@@ -1,22 +1,24 @@
 {
-  "email": "電子郵件",
-  "password": "密碼",
-  "password_hint": "至少8碼且英數混合",
+  "cancel": "取消",
+  "change_language": "更改語言",
+  "change_name": "更改名字",
+  "change_protein_daily_unit": "更改蛋白質每日單位",
+  "confirm": "確認",
   "confirm_password": "確認密碼",
-  "confirm_password_hint": "再次輸入密碼",
+  "confirm_password_not_match": "密碼與確認密碼不相符",
+  "email": "電子郵件",
+  "en": "英語",
+  "fruit_and_veg": "蔬果",
   "invalid_email": "電子郵件地址無效",
   "invalid_password": "至少8碼且英數混合",
   "invalid_weight": "體重必須大於 0",
-  "too_short_password": "密碼太短",
-  "confirm_password_not_match": "密碼與確認密碼不相符",
-  "required_field": "必填",
-  "fruit_and_veg" : "蔬果",
+  "language": "語言",
+  "password": "密碼",
   "protein": "蛋白質",
+  "protein_daily_unit": "蛋白質每日單位",
+  "required_field": "必填",
+  "too_short_password": "密碼太短",
   "your_name": "名字",
-  "change_name": "更改名字",
-  "confirm": "確認",
-  "cancel": "取消",
-  "en": "英語",
   "zh": "中文",
   "create_account_with_email_and_password_failure" : {
     "email_already_in_use": "此電子郵件地址已被註冊",
@@ -68,7 +70,7 @@
     "units_of_fruit_and_veg": "{} 份蔬果",
     "units_of_protein": "{} 份蛋白質",
     "start": "開始",
-    "tap_to_learn_more": "點擊此按鈕以了解更多"
+    "tap_to_learn_more": "點擊此鍵了解一份是多少"
   },
   "PunchPage": {
     "fruit_and_veg": "@:fruit_and_veg",
@@ -92,6 +94,11 @@
     "fruit_and_veg": "@:fruit_and_veg",
     "protein": "@:protein",
     "this_week": "本週",
-    "last_week": "上週"
+    "last_week": "上週",
+    "profile": "我的帳戶",
+    "name": "名字",
+    "protein_daily_unit": "每日蛋白質份數",
+    "language": "語言",
+    "log_out_of_account": "登出"
   }
 }
