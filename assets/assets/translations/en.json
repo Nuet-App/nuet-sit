@@ -41,7 +41,8 @@
     "email": "@:email",
     "password": "@:password",
     "confirm_password": "@:confirm_password",
-    "login_here" : "Login here"
+    "login_here" : "Login here",
+    "guest_login": "Login as guest"
   },
   "LoginPage": {
     "do_not_have_an_account": "Do not have an account? ",

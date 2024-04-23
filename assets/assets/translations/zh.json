@@ -41,7 +41,8 @@
     "email": "@:email",
     "password": "@:password",
     "confirm_password": "@:confirm_password",
-    "login_here" : "登入"
+    "login_here" : "登入",
+    "guest_login": "訪客登入"
   },
   "LoginPage": {
     "do_not_have_an_account": "沒有帳戶？",
