@@ -100,6 +100,8 @@
     "name": "名字",
     "protein_daily_unit": "每日蛋白質份數",
     "language": "語言",
-    "log_out_of_account": "登出"
+    "log_out_of_account": "登出",
+    "delete_account": "刪除帳戶",
+    "delete_account_confirmation": "確定要刪除帳戶？"
   }
 }

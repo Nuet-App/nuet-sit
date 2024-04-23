@@ -100,6 +100,8 @@
     "name": "Name",
     "protein_daily_unit": "Protein Daily Unit",
     "language": "Language",
-    "log_out_of_account": "Log out of account"
+    "log_out_of_account": "Log out of account",
+    "delete_account": "Delete account",
+    "delete_account_confirmation": "Are you sure you want to delete your account?"
   }
 }
