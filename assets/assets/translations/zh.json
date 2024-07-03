@@ -1,7 +1,8 @@
 {
   "cancel": "取消",
   "change_language": "更改語言",
-  "change_name": "更改名字",
+  "change_name": "更改姓名",
+  "no_name": "請輸入姓名或暱稱",
   "change_protein_daily_unit": "更改蛋白質每日單位",
   "confirm": "確認",
   "confirm_password": "確認密碼",
@@ -18,7 +19,7 @@
   "protein_daily_unit": "蛋白質每日單位",
   "required_field": "必填",
   "too_short_password": "密碼太短",
-  "your_name": "名字",
+  "your_name": "姓名",
   "zh": "中文",
   "create_account_with_email_and_password_failure" : {
     "email_already_in_use": "此電子郵件地址已被註冊",
@@ -97,7 +98,7 @@
     "this_week": "本週",
     "last_week": "上週",
     "profile": "我的帳戶",
-    "name": "名字",
+    "name": "姓名",
     "protein_daily_unit": "每日蛋白質份數",
     "language": "語言",
     "log_out_of_account": "登出",
